@@ -7,7 +7,7 @@ shared_ptr、weak_ptr C 实现
 
 虽然初步完成了shared_ptr、weak_ptr，但仍有以下不足：
 
-1. shared_ptr、weak_ptr功能还未彻底实现
+1.shared_ptr、weak_ptr功能还未彻底实现
 
 在本次实验中，我尝试使用C完成了C++标准库中的shared_ptr和weak_ptr，以实现更加高效和灵活的内存管理。
 
